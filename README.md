@@ -7,3 +7,4 @@ Type pip3 install mysql-connector-python-rf.
   
 2.Python connect to MongoDB NoSql Database.
 
+3. Data Science
